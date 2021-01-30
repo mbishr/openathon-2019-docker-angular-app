@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/26122554/106347047-29d6ff00-62c4-11eb-9a03-626a8109a6f7.png)
-
 # HelloWorld
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
